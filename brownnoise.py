@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# whitenoise does what it says on the tin
+# brownnoise does what it says on the tin
 # Linux: install SoX with your package manager.
 # macOS:
 # First install Homebrew (https://brew.sh/) 
