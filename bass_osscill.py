@@ -7,7 +7,7 @@
 # Windows:
 # https://github.com/JoFrhwld/FAVE/wiki/Sox-on-Windows
 import os
-duration  = 1000 # milliseconds
+duration  = 500 # milliseconds
 
 print("Hertz:")
 
