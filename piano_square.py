@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# bass_oscill tests whether a speaker can handle frequencies lower than 100 Hertz
 # Linux: install SoX with your package manager.
 # macOS:
 # First install Homebrew (https://brew.sh/) 
@@ -9,7 +8,7 @@
 import os
 from piano_note_frequencies import keys
 print("Hertz:")
-
+duration = 50
 for i in range(len(keys)):
         note = keys[i][0]
         freq = float(keys[i][1])
